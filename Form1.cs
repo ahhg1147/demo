@@ -15,5 +15,12 @@ namespace demo
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double s1 = 1;
+            double s2 = 3;
+            string str = "nho luu lai";
+        }
     }
 }
